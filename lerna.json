@@ -1,7 +1,7 @@
 {
   "packages": [
-    "packages/core",
-    "packages/bootstrap-4"
+    "packages/bootstrap-4",
+    "packages/core"
   ],
-  "version": "2.5.0"
+  "version": "2.5.1"
 }
